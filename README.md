@@ -24,10 +24,9 @@ A lightweight and efficient real-time hand detection system built with MediaPipe
 
 git clone https://github.com/yourusername/hand-detection-fps.git
 cd hand-detection-fps
+
 2. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 
 3. Run the App
@@ -47,3 +46,5 @@ Uses MediaPipe Hands to detect and track hand landmarks.
 Captures video frames via OpenCV.
 
 Calculates and displays FPS in real-time.
+
+License: This project is licensed under the MIT License. See the LICENSE file for more details.
