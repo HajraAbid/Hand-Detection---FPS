@@ -21,7 +21,7 @@ A lightweight and efficient real-time hand detection system built with MediaPipe
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/hand-detection-fps.git
 cd hand-detection-fps
 2. Install Dependencies
@@ -29,10 +29,8 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3. Run the App
-bash
-Copy
-Edit
 python hand_detect_fps.py
 📁 Project Structure
 bash
